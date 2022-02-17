@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.post_image{
+  border-radius: 10px 10px 0px 0px;
+
+}
+.rounding{
+  border-radius: 0 0 10px 10px;
+}
+.edit{
+  fill: white;
+}
